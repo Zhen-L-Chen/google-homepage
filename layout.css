@@ -1,0 +1,23 @@
+/* CSS Document */
+
+#leftnav{
+    padding: 15px;
+    width: 100px;
+    height: 50px;
+    float: left;
+}
+
+#rightnav{
+    padding: 15px;
+    width: 100px;
+    height: 50px;
+    float: right;
+}
+
+.center{
+    display: block;
+    padding: 170px;
+    margin: auto;
+    width: 23%;
+}
+
